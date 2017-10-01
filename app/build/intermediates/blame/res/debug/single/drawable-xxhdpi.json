@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/lex_speak.png",
+        "source": "/home/dpk/.android/build-cache/d79b4c2259e2ebd5b6323d63fface31583cf5af7/output/res/drawable-xxhdpi/lex_speak.png"
+    },
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/mic.png",
+        "source": "/home/dpk/.android/build-cache/d79b4c2259e2ebd5b6323d63fface31583cf5af7/output/res/drawable-xxhdpi/mic.png"
+    }
+]

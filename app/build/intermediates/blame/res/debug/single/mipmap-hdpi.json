@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/bot_user.png",
+        "source": "/home/dpk/Documents/hack-uta/MySampleApp/app/src/main/res/mipmap-hdpi/bot_user.png"
+    },
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/bot_response.png",
+        "source": "/home/dpk/Documents/hack-uta/MySampleApp/app/src/main/res/mipmap-hdpi/bot_response.png"
+    },
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/splash_icon.png",
+        "source": "/home/dpk/Documents/hack-uta/MySampleApp/app/src/main/res/mipmap-hdpi/splash_icon.png"
+    },
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/dpk/Documents/hack-uta/MySampleApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

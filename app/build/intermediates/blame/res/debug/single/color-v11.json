@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dpk/.android/build-cache/4b325e7459be002a544525af63f69aa7a5ca12a5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dpk/.android/build-cache/4b325e7459be002a544525af63f69aa7a5ca12a5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

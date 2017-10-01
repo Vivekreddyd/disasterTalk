@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="userid"
+        android:title="@string/user_id"
+        android:summary="@string/user_id_summary"/>
+    <CheckBoxPreference
+        android:key="setup_done"
+        android:title="@string/setup_done_summary"
+        android:checked="false"/>
+</PreferenceScreen>

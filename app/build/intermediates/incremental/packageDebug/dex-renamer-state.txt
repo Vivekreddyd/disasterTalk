@@ -1,0 +1,7 @@
+#Sun Oct 01 09:32:45 CDT 2017
+base.0=/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d92658b056a7d48f622588877177684bd781aec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_48b4ace07183e88cab81e3f10be8d3a937fed256/classes.dex
+base.1=/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_48b4ace07183e88cab81e3f10be8d3a937fed256
+file.0=/home/dpk/Documents/hack-uta/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d92658b056a7d48f622588877177684bd781aec/classes.dex

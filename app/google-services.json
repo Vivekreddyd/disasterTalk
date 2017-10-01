@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "138164918617",
+    "firebase_url": "https://disaster-talk.firebaseio.com",
+    "project_id": "disaster-talk",
+    "storage_bucket": "disaster-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138164918617:android:1746e88a177364bb",
+        "android_client_info": {
+          "package_name": "com.disastertalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138164918617-7ug9voovgvrg0lo56k8viguksoc6atau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuldHYJomJ8Fv-lTA5tm9lDsTTp74LfP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138164918617:android:0477150be6e112a6",
+        "android_client_info": {
+          "package_name": "com.hackuta.disastertalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138164918617-7ug9voovgvrg0lo56k8viguksoc6atau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuldHYJomJ8Fv-lTA5tm9lDsTTp74LfP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
